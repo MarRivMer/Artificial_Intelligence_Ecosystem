@@ -19,7 +19,8 @@ recipes = {
     "Chicken Salad": ['chicken', 'mayonaise', 'onion', 'celery', 'mustard'],
     "Tomato Basil Soup" : ['tomatoes', 'basil', 'vegetable stock', 'cream'],
     "Broccoli Cheddar Soup": ['broccoli', 'cheddar cheese', 'cream', 'vegetable broth'],
-    "Enchiladas": ['tortilla', 'chicken', 'enchilada sauce', 'cheese']
+    "Enchiladas": ['tortilla', 'chicken', 'enchilada sauce', 'cheese'],
+    "Cheesecake": ['graham crackers', 'sugar', 'eggs', 'butter', 'cream cheese', 'cream']
 }
 
 # Function to recommend recipes
